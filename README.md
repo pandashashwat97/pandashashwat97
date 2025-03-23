@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashwat
 - 👀 I’m a passionate IOS Developmer
-- 📫 How to reach me pandashashwat97@gmail.com
+- 📫 Reach me at: pandashashwat97@gmail.com
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/pandashashwat97?theme=dark)
 <!---
