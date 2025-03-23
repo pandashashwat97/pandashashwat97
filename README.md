@@ -8,5 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h3> 📄 Wanna know more about my experiences, check out my [resume](https://github.com/GaneshRajuGalla/Resume) </h3>
 <h3> 📫 Reach me via: pandashashwat97@gmail.com </h3>
